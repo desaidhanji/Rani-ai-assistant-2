@@ -1,0 +1,11 @@
+{
+  "name": "Rani - AI Personal Assistant",
+  "description": "Warm, friendly multilingual AI personal assistant with Android device control, voice interaction, and accessibility service.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+

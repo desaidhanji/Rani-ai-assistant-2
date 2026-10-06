@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Rani - AI Personal Assistant",
+  "short_name": "Rani AI",
+  "description": "Warm, friendly multilingual AI personal assistant with Android device control, voice interaction, and accessibility service.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#db2777",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
